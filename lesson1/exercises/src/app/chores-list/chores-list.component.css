@@ -1,0 +1,13 @@
+.chores {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: x-large;
+    color: forestgreen;
+}
+
+.chores ul li {
+    font-style: italic;
+}
+
+h3 {
+    text-decoration: underline;
+}
