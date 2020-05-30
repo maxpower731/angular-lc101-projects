@@ -3,6 +3,11 @@
    color: brown;
 }
 
+.altButtons {
+   display: none;
+   float: left;
+}
+
 h3 {
    text-align: center;
    text-decoration: underline;

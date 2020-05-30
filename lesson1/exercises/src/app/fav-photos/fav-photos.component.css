@@ -6,6 +6,7 @@ img {
    width: 200px;
    height: 244px;
    object-fit: cover;
+   box-shadow:5px 10px 10px rgb(155, 155, 155);
 }
 
 .photos {
